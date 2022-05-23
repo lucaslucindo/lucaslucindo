@@ -3,10 +3,10 @@
 👨‍🎓 < Sou recém formado em Análise e Desenvolvimento de Sistemas /> </br>
 
 
-<div align="left">
+<div>
   <a href="https://github.com/lucaslucindo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslucindo&layout=compact&langs_count=7&theme=blue"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslucindo&layout=compact&langs_count=7&theme=blue"/>
 </div>
   
 ##
