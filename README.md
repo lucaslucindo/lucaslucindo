@@ -1,7 +1,10 @@
-### Hello Wolrd!! Sou o Lucas Lucindo </> 💻 
+### Hello Wolrd!! Sou o Lucas Lucindo... </> 💻 
 👨‍💻 < Estou a procura de uma oportunidade profissional na área de programação e desenvolvimento de sistemas /> </br>
-👨‍🎓 < Sou recém formado em Análise e Desenvolvimento de Sistemas /> </br>
+👨‍🎓 < Sou Graduado de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio de Belo Horizonte-MG /> </br>
 
+##
+
+### **📈 Meus resultados:**
 
 <div>
   <a href="https://github.com/lucaslucindo">
@@ -9,6 +12,8 @@
 </div>
   
 ##
+  
+### **Linguagens e tecnologias que conheço:**
   
 <div style="display: inline_block"><br>
   <img align="center" alt="lucaslucindo-VStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
