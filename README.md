@@ -17,6 +17,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="lucaslucindo-VStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+  <img align="center" alt="lucaslucindo-VStudio" height="35" width="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="lucaslucindo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="lucaslucindo-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="lucaslucindo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
