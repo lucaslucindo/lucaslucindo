@@ -2,6 +2,7 @@
 👨‍💻 < Estou a procura de uma oportunidade profissional na área de programação e desenvolvimento de sistemas /> </br>
 👨‍🎓 < Sou Graduado de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio de Belo Horizonte-MG /> </br>
 
+🖥️ **Meu Site:** https://lucaslucindo.github.io/portfolio-lucas/
 ##
 
 ### **📈 Meus resultados:**
