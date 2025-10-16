@@ -22,18 +22,18 @@
   <img align="center" alt="lucaslucindo-VStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
   <img align="center" alt="lucaslucindo-VStudio" height="35" width="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="lucaslucindo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="lucaslucindo-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="lucaslucindo-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor">
   <img align="center" alt="lucaslucindo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucaslucindo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucaslucindo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" alt="lucaslucindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucaslucindo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucaslucindo-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="lucaslucindo-React" height="30" width="40" src="https://icons8.com/color/48/000000/react.png">
-  <img align="center" alt="lucaslucindo-NodeJS" height="30" width="40" src="https://icons8.com/color/48/000000/nodejs.png">
+  <img align="center" alt="lucaslucindo-React" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img align="center" alt="lucaslucindo-NodeJS" height="30" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img align="center" alt="lucaslucindo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="lucaslucindo-Mysql" height="40" width="50" src="https://icons8.com./color/48/000000/mysql.png">
-  <img align="center" alt="lucaslucindo-PostgreSQL" height="40" width="50" src="https://icons8.com/color/48/000000/postgresql.png">
+  <img align="center" alt="lucaslucindo-Mysql" height="40" width="50" src="https://img.icons8.com./color/48/000000/mysql.png">
+  <img align="center" alt="lucaslucindo-PostgreSQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgresql.png">
 </div>
 
 ##
