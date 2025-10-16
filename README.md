@@ -9,14 +9,16 @@
 
 <div>
   <a href="https://github.com/lucaslucindo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   -->
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=radical"/>  
 </div>
   
 ##
   
 ### **Linguagens e tecnologias que conheço:**
   
-<div style="display: inline_block"><br>
+<div style="display:inline-block; pointer-events:none;"><br>
   <img align="center" alt="lucaslucindo-VStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
   <img align="center" alt="lucaslucindo-VStudio" height="35" width="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="lucaslucindo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -27,7 +29,11 @@
   <img align="center" alt="lucaslucindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucaslucindo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucaslucindo-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="lucaslucindo-React" height="30" width="40" src="https://icons8.com.br/icon/asWSSTBrDlTW/react">
+  <img align="center" alt="lucaslucindo-NodeJS" height="30" width="40" src="https://icons8.com.br/icon/54087/nodejs">
   <img align="center" alt="lucaslucindo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="lucaslucindo-Mysql" height="40" width="50" src="https://icons8.com.br/icon/UFXRpPFebwa2/logo-mysql">
+  <img align="center" alt="lucaslucindo-PostgreSQL" height="40" width="50" src="https://icons8.com.br/icon/JRnxU7ZWP4mi/postgresql">
 </div>
 
 ##
