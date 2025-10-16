@@ -11,7 +11,7 @@
   <a href="https://github.com/lucaslucindo">
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   -->
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=radical"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslucindo&show_icons=true&theme=tokyonight"/>  
 </div>
   
 ##
@@ -29,11 +29,11 @@
   <img align="center" alt="lucaslucindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucaslucindo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucaslucindo-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="lucaslucindo-React" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img align="center" alt="lucaslucindo-React" height="35" width="35" src="https://img.icons8.com/color/48/000000/react-native.png">
   <img align="center" alt="lucaslucindo-NodeJS" height="30" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img align="center" alt="lucaslucindo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="lucaslucindo-Mysql" height="40" width="50" src="https://img.icons8.com./color/48/000000/mysql.png">
-  <img align="center" alt="lucaslucindo-PostgreSQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgresql.png">
+  <img align="center" alt="lucaslucindo-Mysql" height="30" width="40" src="https://img.icons8.com./color/48/000000/mysql.png">
+  <img align="center" alt="lucaslucindo-PostgreSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgresql.png">
 </div>
 
 ##
